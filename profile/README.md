@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/LAMplus_logo.png" alt="LAM+ logo" width="220">
+  <img src="assets/lamplus-logo.png" alt="LAM+ logo" width="220">
 </p>
 
 # LAM+
